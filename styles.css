@@ -1,0 +1,45 @@
+body {
+    background-color: #fff7f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Color principal del tema */
+.bg-pastel {
+    background-color: #d63384 !important;
+}
+
+/* Estilo para los enlaces del menú */
+.nav-link {
+    transition: all 0.3s;
+    border-radius: 5px;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #ffd1dc !important;
+}
+
+/* Títulos de sección */
+.section-title {
+    color: #d63384;
+    font-weight: bold;
+}
+
+/* Carrusel: Ajuste de imágenes */
+.carousel-img {
+    height: 450px;
+    object-fit: cover;
+}
+
+.bg-dark-50 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Botón principal */
+.btn-primary {
+    background-color: #d63384;
+}
+
+.btn-primary:hover {
+    background-color: #b02a6b;
+}

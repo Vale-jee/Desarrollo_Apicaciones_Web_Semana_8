@@ -1,0 +1,32 @@
+-Descripción
+
+Este proyecto consiste en el desarrollo de una página web interactiva y responsiva utilizando HTML, CSS, Bootstrap 5 y JavaScript.
+La página representa una pastelería ficticia llamada Pastelería Dulce Encanto.
+
+-Características
+
+Diseño Responsivo: Adaptado para dispositivos móviles, tablets y computadoras usando Bootstrap.
+
+Carrusel Dinámico: Presentación de productos destacados como tortas, cheesecakes y cupcakes.
+
+Interactividad: Botón de promociones que muestra ofertas especiales sin recargar la página.
+
+Formulario de Contacto: Validación en tiempo real de los campos Nombre, Correo electrónico y Mensaje mediante JavaScript.
+
+-Tecnologías Utilizadas
+
+HTML5: Estructura semántica del sitio.
+
+CSS3: Estilos personalizados con temática pastel.
+
+Bootstrap 5: Framework para diseño responsivo y componentes UI.
+
+JavaScript:  Lógica de interactividad y validación de formularios.
+
+-Enlaces del Proyecto
+
+Repositorio en GitHub:
+(Agrega aquí el enlace a tu repositorio)
+
+GitHub Pages (Demo):
+(Agrega aquí el enlace a tu página publicada)
